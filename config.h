@@ -4,7 +4,7 @@
 
 const Block blocks[] = {
   BLOCK("sb-forecast", 5, 5),
-  // BLOCK("sb-cpubars", 1, 18),
+  BLOCK("sb-cpu", 1, 18),
   BLOCK("sb-pacpackages", 3600, 8),
   BLOCK("sb-nettraf", 1, 16),
   BLOCK("sb-disk", 5, 13),
